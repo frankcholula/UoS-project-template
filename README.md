@@ -1,5 +1,5 @@
 # University of Surrey Assigmment Template Repository 🦌
-Hello! Tired of setting up repositories for your projects? Here's a template repository for all the projects in the University of Surrey CVRML course. Feel free to use this repository as a starting template for assignments, thesis, or any other projects you have in mind 🫶.
+Hello! Tired of setting up repositories for your projects? Here's a template repository for all the projects in the University of Surrey CVRML course. Feel free to use this repository as a starting template for assignments, thesis, or any other projects you have in mind 🫶
 
 ## Directory Layout
 ```bash
