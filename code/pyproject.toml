@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "code"
+version = "0.1.0"
+description = "project code goes here."
+authors = ["frankcholula <lu.phrank@gmail.com>"]
+license = "GPL-3.0-or-later"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
