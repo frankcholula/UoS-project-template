@@ -308,3 +308,4 @@ TSWLatexianTemp*
 
 # MacOS Files
 .DS_Store
+*.zip
