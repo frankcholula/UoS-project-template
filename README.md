@@ -1,2 +1,2 @@
 # latex-templates
-latex templates and devcontainer
+latex templates and vscode setup for writing scientific papers.
