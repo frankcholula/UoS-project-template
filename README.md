@@ -1,5 +1,5 @@
 # University of Surrey Assigmment Template Repository 🦌
-Hello! Tired of setting up repositories for your projects? Here's a template repository for all the projects in the University of Surrey CVRML course. Feel free to use this repository as a starting template for assignments, thesis, or any other projects you have in mind 🫶
+Hello! Tired of setting up repositories for your projects? Here's a template repository for all the projects in the University of Surrey CVRML MSc. Feel free to use this repository as a starting template for assignments, thesis, or any other projects you have in mind 🫶
 
 ## Directory Layout
 ```bash
@@ -119,7 +119,7 @@ Press `Cmd + shift + p,` and type `preferences: Open User Settings (JSON)` to op
 ```
 
 ## Code Setup
-Given that most of the projects in the CVRML course are in Python, I have included a `code` directory with a `poetry` setup with the necessary dependencies for the course.
+Given that most of the projects in the CVRML courses are in Python, I have included a `code` directory with a `poetry` setup with the necessary dependencies.
 
 To install the dependencies, run the following commands in the code directory:
 ```bash
